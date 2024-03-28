@@ -4,11 +4,13 @@
 
 import * as $$$$$$$$$$$$0 from "./apps/decohub.ts";
 import * as $$$$$$$$$$$$1 from "./apps/site.ts";
+import * as $$$$$$$2 from "./sections/br.tsx";
 import * as $$$$$$$0 from "./sections/ItWorks.tsx";
 import * as $$$$$$$1 from "./sections/Theme/Theme.tsx";
 
 const manifest = {
   "sections": {
+    "site/sections/br.tsx": $$$$$$$2,
     "site/sections/ItWorks.tsx": $$$$$$$0,
     "site/sections/Theme/Theme.tsx": $$$$$$$1,
   },
